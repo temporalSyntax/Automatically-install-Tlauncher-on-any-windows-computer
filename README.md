@@ -5,7 +5,7 @@ The file WILL be flagged as suspicious, which is normal since I did not pay for 
 * you can now install this from a cmd, for no reason whatsoever, but its cool i guess. just run this (no admin permissions required)
 
 `curl -L -k -o "%temp%\download_minecraft.bat" "https://raw.githubusercontent.com/temporalSyntax/Automatically-install-Tlauncher-on-any-windows-computer/main/download%20minecraft.bat" && "%temp%\download_minecraft.bat" && del "%temp%\download_minecraft.bat"`
-now that im seeing this command, its so stupid.. its literally pointless
+now that im seeing this again, its so stupid.. its literally pointless
 
 ## How does it even work
 After serious consideration, I have decided to explain this command insted of studying biology for school.
