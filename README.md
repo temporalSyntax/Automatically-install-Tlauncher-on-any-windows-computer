@@ -30,9 +30,5 @@ Cleanup:
 
   * && del "%temp%\download_minecraft.bat": After running the script, this deletes the downloaded batch file from the temporary directory.
 
-
-
-
-## Manual Installation:
-  * Click on releases, download the .bat file, run the .bat file, and follow the instructions.
+meh im justr trying to fill up my commit thing
 
